@@ -1,0 +1,79 @@
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+% GREETINGS
+HELLO	hh ah l ow
+HI	hh ay
+GOOD	g uh d
+MORNING	m ao r n ih ng
+DAY	d ey
+NIGHT	n ay t
+AFTERNOON	ae f t er n uw n
+
+% PEOPLE
+I	ay
+WE	w iy
+AM	ae m
+ARE	aa r
+
+% BUY
+WANT	w aa n t
+TO	t uw
+BUY	b ay
+WANNA	w aa n ah
+LOOK	l uh k
+FOR	f ao r
+
+% PRICE
+WANT	w aa n t
+TO	t uw
+ASK	ae s k
+PRICE	p r ay s
+OF	ah v
+WANNA	w aa n ah
+HOW	hh aw
+MUCH	m ah ch
+COST	k aa s t
+
+% ITEM
+SODA	s ow d ah
+CHIPS	ch ih p s
+PASTA	p aa s t ah
+NOODLE	n uw d ah l
+PEANUTS	p iy n ah t s
+FRENCH	f r eh n ch
+FRIES	f r ay z
+MINERAL	m ih n er ah l
+WATER	w ao t er
+
+% VARIANT
+WHAT	w ah t
+IS	ih z
+VARIANT	v eh r iy ah n t
+OF	ah v
+OTHER	ah dh er
+FLAVOUR	f l ae v ah r
+TYPES	t ay p s
+
+% DISCOUNT
+WHAT	w ah t
+IS	ih z
+DISCOUNT	d ih s k aw n t
+DISCOUNTED	d ih s k aw n t ih d
+HOW	hh aw
+MUCH	m ah ch
+FOR	f ao r
+AVAILABLE	ah v ey l ah b ah l
+
+% NEWPRODUCT
+WHAT	w ah t
+IS	ih z
+NEW	n uw
+ANY	eh n iy
+ANYTHING	eh n iy th ih ng
+PRODUCT	p r aa d ah k t
+THERE	dh eh r
+FRESH	f r eh sh

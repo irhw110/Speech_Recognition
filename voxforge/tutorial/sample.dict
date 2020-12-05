@@ -1,0 +1,60 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[HELLO]	hh ah l ow
+2	[HI]	hh ay
+2	[GOOD]	g uh d
+2	[MORNING]	m ao r n ih ng
+2	[DAY]	d ey
+2	[NIGHT]	n ay t
+2	[AFTERNOON]	ae f t er n uw n
+3	[I]	ay
+3	[WE]	w iy
+3	[AM]	ae m
+3	[ARE]	aa r
+4	[WANT]	w aa n t
+4	[TO]	t uw
+4	[BUY]	b ay
+4	[WANNA]	w aa n ah
+4	[LOOK]	l uh k
+4	[FOR]	f ao r
+5	[WANT]	w aa n t
+5	[TO]	t uw
+5	[ASK]	ae s k
+5	[PRICE]	p r ay s
+5	[OF]	ah v
+5	[WANNA]	w aa n ah
+5	[HOW]	hh aw
+5	[MUCH]	m ah ch
+5	[COST]	k aa s t
+6	[SODA]	s ow d ah
+6	[CHIPS]	ch ih p s
+6	[PASTA]	p aa s t ah
+6	[NOODLE]	n uw d ah l
+6	[PEANUTS]	p iy n ah t s
+6	[FRENCH]	f r eh n ch
+6	[FRIES]	f r ay z
+6	[MINERAL]	m ih n er ah l
+6	[WATER]	w ao t er
+7	[WHAT]	w ah t
+7	[IS]	ih z
+7	[VARIANT]	v eh r iy ah n t
+7	[OF]	ah v
+7	[OTHER]	ah dh er
+7	[FLAVOUR]	f l ae v ah r
+7	[TYPES]	t ay p s
+8	[WHAT]	w ah t
+8	[IS]	ih z
+8	[DISCOUNT]	d ih s k aw n t
+8	[DISCOUNTED]	d ih s k aw n t ih d
+8	[HOW]	hh aw
+8	[MUCH]	m ah ch
+8	[FOR]	f ao r
+8	[AVAILABLE]	ah v ey l ah b ah l
+9	[WHAT]	w ah t
+9	[IS]	ih z
+9	[NEW]	n uw
+9	[ANY]	eh n iy
+9	[ANYTHING]	eh n iy th ih ng
+9	[PRODUCT]	p r aa d ah k t
+9	[THERE]	dh eh r
+9	[FRESH]	f r eh sh
