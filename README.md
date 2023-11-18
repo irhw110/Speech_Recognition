@@ -1,6 +1,6 @@
 # Small Vocabulary Speech Recognizer
 
-![alt text](res\asr_overview.JPG?raw=true)
+![alt text](res/asr_overview.JPG)
 
 ## Overview
 - Project for IF4071 Speech Processing course on Bandung Institute of Technology.
